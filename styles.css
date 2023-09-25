@@ -29,12 +29,14 @@
 	background-color:red;
 	grid-row-start:2;
 	grid-row-end:3;
+	flex:3;
 
 }
 .aside{
 	background-color:blue;
 	grid-row-start:2;
 	grid-row-end:3;
+	flex:1;
 
 }
 .footer{
